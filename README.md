@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/AKB1794/">Atanu Kumar Biswas</a></h1>
+<h1 align="center">Hi 👋, I'm Atanu Kumar Biswas</h1>
 <h3 align="center">Student</h3>
 
 <h3 align="left">Languages and Tools:</h3>
